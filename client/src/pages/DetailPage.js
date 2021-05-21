@@ -1,6 +1,7 @@
 import React, { useState, useContext, useCallback, useEffect } from 'react'
 import { useParams } from 'react-router-dom'
 import { Loader } from '../components/Loader'
+import { LinkCard } from '../components/LinkCard'
 import { AuthContext } from '../context/AuthContext'
 import { useHttp } from '../hooks/http.hook'
 
@@ -29,7 +30,7 @@ export const DetailPage = () => {
 
   return (
     <>
-      { !loading && link && <LinkCad /> }
+      { !loading && link && <LinkCard link={link} /> }
     </>
   )
 }
