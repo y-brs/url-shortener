@@ -27,6 +27,8 @@ export const CreatePage = () => {
   return (
     <div className="row">
       <div className="col s8 offset-s2" style={{ paddingTop: '2rem' }}>
+      <h2>Создать ссылку</h2>
+      <br />
         <div className="input-field">
           <input
             placeholder="Вставьте ссылку"
