@@ -27,7 +27,7 @@ router.post('/generate', auth, async (req, res) => {
     await link.save()
 
     res.status(201).json({ link })
-   } catch (e) {
+  } catch (e) {
     res.status(500).json({ message: 'Что-то пошло не так, попробуйте снова!' })
   }
 })
