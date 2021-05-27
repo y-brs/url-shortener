@@ -1,4 +1,4 @@
-# MERN URL-shortener
+# MERN URL-Shortener
 
 This Project is a middle friendly project I built using React. Some key Aspects:
 
