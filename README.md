@@ -11,6 +11,8 @@ Deployed live on https://url-shortener-5e5bb8.netlify.app. Check out!
 
 Yooooo! 🚀
 
+![Screenshot 2021-05-27 at 23 31 48](https://user-images.githubusercontent.com/68222437/119893787-7b2a8e80-bf44-11eb-92ab-2be8a6109e6b.png)
+![Screenshot 2021-05-27 at 23 32 57](https://user-images.githubusercontent.com/68222437/119893792-7c5bbb80-bf44-11eb-8e13-6135094ba12e.png)
 
 
 # Getting Started with Create React App
